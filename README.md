@@ -5,6 +5,8 @@ Welcome to the Planetarium Service API! This API is a Django-based web applicati
 ## Check it out!
 
 [Planetarium Service API deployed on Render](https://planetarium-service-api.onrender.com/api/doc/swagger/)
+![image](https://i.ibb.co/MMjzG8G/photo-2023-12-11-20-55-51.jpg)
+
 
 **Demo Credentials:**
 - Username: `admin@gmail.com`
@@ -146,8 +148,7 @@ docker-compose up
 - Access the API documentation by running the server and navigating to http://localhost:8000/api/doc/swagger/ or http://localhost:8000/api/doc/redoc/.
 
 ## DB Structure
-
-## Endpoints
+![image](https://github.com/petrykivd/planetarium-service-api/assets/111526221/68acfbf6-d81b-448c-a001-a07022d47737)
 
 ## Contributing
 
