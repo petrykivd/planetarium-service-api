@@ -58,7 +58,7 @@ class AstronomyShowDetailSerializer(AstronomyShowSerializer):
         ]
 
 
-class MovieImageSerializer(serializers.ModelSerializer):
+class AstronomyShowImageSerializer(serializers.ModelSerializer):
     class Meta:
         model = AstronomyShow
         fields = ("id", "image")
