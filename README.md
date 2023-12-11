@@ -1,6 +1,15 @@
 # Planetarium Service API
 
 Welcome to the Planetarium Service API! This API is a Django-based web application designed to manage astronomy shows, show sessions, reservations, and related data for a planetarium. It provides various endpoints for administrators and authenticated users to interact with the system, offering features such as viewing and filtering astronomy shows, managing show sessions, creating reservations, and more.
+
+## Check it out!
+
+[Planetarium Service API deployed on Render](https://planetarium-service-api.onrender.com/api/doc/swagger/)
+
+**Demo Credentials:**
+- Username: `admin@gmail.com`
+- Password: `12345`
+
 ## Getting Started
 
 ### Prerequisites
@@ -139,6 +148,10 @@ docker-compose up
 ## DB Structure
 
 ## Endpoints
+
+## Contributing
+
+Feel free to contribute to these enhancements, and let's make our Planetarium Service API even better!
 
 ## License
 This project is licensed under the MIT License.
